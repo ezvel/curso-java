@@ -33,8 +33,12 @@
  * +
  * 
  * Fuentes
- * Curso Java. Estructuras principales 3. Constantes y operadores. Video 7
+ * Curso Java. Estructuras principales 4. Constantes y operadores. Video 7
  * https://www.youtube.com/watch?v=qdxwWkTxcmc&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=7
+ * 
+ * Curso Java. Estructuras principales 5. Constantes y operadores. Video 8
+ * https://www.youtube.com/watch?v=MoJxxPgCBcg&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=8
+ * 
  * 
  * */
 
