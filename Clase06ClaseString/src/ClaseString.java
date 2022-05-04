@@ -72,7 +72,7 @@ public class ClaseString {
 
 /*
  * 
-Salida
+Salida:
 
 Mi nombre es Ezequiel
 Mi nombre tiene 8 caracteres. 
