@@ -114,7 +114,7 @@ public class CondicionalesIf {
  * Curso Java. Condicionales 1. Video 16
  * https://www.youtube.com/watch?v=b2ZtZndiT1Y&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=16
  * 
- * Curso Java. Condicionales 2. Video 17
+ * 
  * 
  * */
 	
