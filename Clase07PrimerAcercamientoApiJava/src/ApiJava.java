@@ -78,15 +78,15 @@
  * */
 
 //import java.util.*; //<- Importamos y accedemos a todas las clases (*) dentro del paquete util, dentro del paquete java.
-import java.util.Scanner; // <- Importamos y accedemos a la clase Scanner dentro del paquete util, dentro del paquete ava.
-import java.util.Locale;
+//import java.util.Scanner; // <- Importamos y accedemos a la clase Scanner dentro del paquete util, dentro del paquete ava.
+//import java.util.Locale;
 
 public class ApiJava {
 
 	public static void main(String args[]) {
 		
-		String nombre; //<- String pertenece al paqueta java.lang, no habría problemas en utilizarlas
-		Scanner input;   // <- Pero para hacer uso de otros paquetes, necesito importarlas, no utilizarlas libremente. Le tenemos que decir al programa que valos a utilizar una clase que no está en java.lang
+		//String nombre; //<- String pertenece al paqueta java.lang, no habría problemas en utilizarlas
+		//Scanner input;   // <- Pero para hacer uso de otros paquetes, necesito importarlas, no utilizarlas libremente. Le tenemos que decir al programa que valos a utilizar una clase que no está en java.lang
 	}
 }
 

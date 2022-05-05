@@ -90,9 +90,12 @@ public class ConstantesOperadores {
 		//En 6.0 centímetros hay 2.3622047244094486 pulgadas.
 		
 		//Podemos declarar varias variables en una misma linea siempre y cuándo pertenezcan al mismo tipo de dato
-		int a, b, e, d; //Declaración en una sola linea con el mismo tipo de dato
+		//int a, b, e, d; //Declaración en una sola linea con el mismo tipo de dato
 		int numA = 1, numB = 2, numC = 3; //Declaración e inicialización en una sola linea con el mismo tipo de dato
 		
+		System.out.println(numA);
+		System.out.println(numB);
+		System.out.println(numC);
 	}
 
 }
