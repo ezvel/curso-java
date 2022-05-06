@@ -110,4 +110,63 @@ public class AdivinaNumero {
  *Cuándo el número ingresado por el usuario sea igual al número aleatorio, es decir, la condición sea falsa
  *Decirle al usuario que ganó y finalizar el juego 
  * */
+
+
+/*Salida
+*************************
+****Adivina el número****
+*************************
+
+Tienes que adivinar un número entre el 1 al 100. Se te dirá mayor o menor para guiarte a ganar el juego
+Ingrese un número: 
+90
+
+Menor
+Introduce un número
+10
+
+Mayor
+Introduce un número
+50
+
+Menor
+Introduce un número
+25
+
+Mayor
+Introduce un número
+35
+
+Mayor
+Introduce un número
+45
+
+Menor
+Introduce un número
+40
+
+Menor
+Introduce un número
+38
+
+Menor
+Introduce un número
+36
+
+
+***************************************************************
+Felicitaciones. Haz adivinado el número 
+Número aleatorio a adivinar: 36
+Intentos: 8
+***************************************************************
+ 
+*/
+
+
+/*Fuentes
+ * 
+ *Curso Java. Bucles 2. Video 20
+ *https://www.youtube.com/watch?v=TMIoxn4nMtA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=19
+ * 
+ * */
  
