@@ -6,7 +6,9 @@ public class ValidarEmail {
 		
 		
 		//Variables
-		boolean arroba = false;
+		//boolean arroba = false;
+		int arroba = 0;
+		boolean punto = false;
 		String email = "";
 		
 		//Solicitar email al usuario
@@ -16,11 +18,15 @@ public class ValidarEmail {
 	    //Validar correo electrónico
 		for(int i = 0; i < email.length(); i++) {
 			
-			if (email.charAt(i) == '@') {
-				
-				arroba = true;
-				
+			if (email.charAt(i) == '@') {				
+				arroba++;
 			}
+			
+			if (email.charAt(i) == '.') {
+				punto = true;					
+			}
+			
+			
 		}
 		
 		/*
@@ -33,7 +39,7 @@ public class ValidarEmail {
 		al terminar de reccorrer la cadena de caracteres saldrá del bucle
 		*/
 		
-		if (arroba == true) {
+		if (arroba == 1 && punto == true) {
 			
 			System.out.println("El mail es válido");
 			
