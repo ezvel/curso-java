@@ -79,3 +79,11 @@ public class MatricesBidimensionales2 {
 20
 
 */
+
+
+/*Fuentes
+ *Curso Java Arrays 3. Video 26.
+ *https://www.youtube.com/watch?v=xEHkuRApCno&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=26
+ * 
+ * 
+ * */

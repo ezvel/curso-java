@@ -245,6 +245,6 @@ matrix[3][4] : -511
 */
 
 /*
-Curso Java Arrays 3. Video 25.
+Curso Java Arrays 3. Arrays bidimensionale. Video 25.
 https://www.youtube.com/watch?v=_tUncS0AsNE&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=25
 */
