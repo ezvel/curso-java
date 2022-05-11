@@ -107,14 +107,21 @@ public class DoWhile {
  * 
  * 		Scanner scan = new Scanner(System.in);
 		
-		String nombre = "carlos";
-		String nombre2 = scan.nextLine();
+		String nombre1 = "";
+		String nombre2 = "";
 		
-		Boolean sonIguales = nombre == nombre2;
-		System.out.println(sonIguales);
+		nombre1 = "carlos";
+		System.out.println("Ingrese el nombre 2: ");
+		nombre2 = scan.nextLine();
+		
+		if (nombre1 == nombre2) {
+		  System.out.println("Son iguales");
+		}else{
+		  ystem.out.println("No son iguales");
+		}
  * 
- * Al comparar con el operador de igualdad nombre y nombre2 que
- * tenían el mismo valor pero daban falso.
+ * Al comparar con el operador de igualdad nombre1 y nombre2 que
+ * tenían el mismo valor pero daban falso. <- que no eran iguales
  * 
  * Hay dos maneras de crear variables con String. String al ser
  * un tipo de dato no primitivo utiliza clases
@@ -124,7 +131,7 @@ public class DoWhile {
  * Si intentas comparar dos primitivos, comparas los valores
  * Si intentas comparar dos no primitivos cómo String, comparas la referencia a la locación de memoria
  * 
- * Por esa razón no son iguales nombre y nombre2, ya que sus referencias no son las mismas
+ * Por esa razón no son iguales nombre1 y nombre2, ya que sus referencias no son las mismas
  * 
  * Al crear una variable string con "new String" estas creando una nueva cadena y aunque tengan el mismo valor, sus locaciones serán distintas
  * Al crear una variable string con String nombre = "" estas colocando la variable en una locación en el repositorio de cadenas o string constant pool,
@@ -150,16 +157,23 @@ public class DoWhile {
  *  
  * 		Scanner scan = new Scanner(System.in);
 		
-		String nombre = "carlos";
-		String nombre2 = scan.nextLine();
+		String nombre1 = "";
+		String nombre2 = "";
 		
-		Boolean sonIguales = nombre == nombre2;
-		System.out.println(sonIguales);
+		nombre1 = "carlos";
+		System.out.println("Ingrese el nombre 2: ");
+		nombre2 = scan.nextLine();
+		
+		if (nombre1 == nombre2) {
+		  System.out.println("Son iguales");
+		}else{
+		  ystem.out.println("No son iguales");
+		}
 		
 		Las dos fueron creadas cómo literales de cadenas
 		Por lo tanto no se creó un nuevo objeto cadena
 		Entoces las dos deberían apuntar a la misma dirección en memoria
-		y la igualdad debería dar true, pero da false
+		y la igualdad debería dar true, pero da false <- que no son iguales
 		
 		
 	Todavía no puedo encontrar la respuesta. Tengo la suposición que tanto el objeto Scanner en su método nextLine() y
