@@ -86,6 +86,9 @@ Métodos Getters o captadores
 	
 	}
 	
+
+
+
 	
 	
 */
@@ -255,7 +258,6 @@ https://www.youtube.com/watch?v=YQinPQVpSd4&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ
 Curso Java. POO 6. Construcción objetos. Video 32
 https://www.youtube.com/watch?v=jht07O7_R9w&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=32
 
-Curso Java. POO 7. Construcción objetos 2. VIdeo 33
 
 */
 
